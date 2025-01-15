@@ -1,9 +1,9 @@
 ### Hi there 👋, Welcome to my profile!
-I'm a front-end developer who is passionate about JavaScript. Love to explore new trends.
+I'm a Software Quality Assurance Engineer who is passionate about testing. Love to explore new trends.
 
-Skills: HTML | CSS | Javascript
+Skills: Automation | API Testing | Javascript
 
-- 🌱 I’m currently learning React, React Native and Linux 
+- 🌱 I’m currently learning Cypress, Selenuim and Linux 
 
 
 
